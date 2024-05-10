@@ -28,7 +28,7 @@
 
             switch ($page) {
                 case 'home':
-                    echo '<section id="home"><h2>Welcome to Cloud8Kit</h2><p>We are the new age cloud-AI based hosting and deployments software. Easy to Collab, Integrate, Host and deploy. Checkout our products and contact for further business pricing.</p><p>Created by Shreekar Kolanu</p><p>Company Name : Cloud8Kit</p></section>';
+                    echo '<section id="home"><h2>Welcome to Cloud8Kit</h2><p>We are the new age cloud-AI based hosting and deployments software. Easy to Collab, Integrate, Host and deploy. Checkout our products and contact for further business pricing.</p><p>Created by Vineet Samudrala</p><p>Company Name : Cloud8Kit</p></section>';
                     break;
                 case 'about':
                     echo '<section id="about"><h2>About Us</h2><p>We are a Cloud and AI based solutions product that offer productive deployments and CI/CD integrations.</p></section>';
